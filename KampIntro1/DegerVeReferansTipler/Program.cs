@@ -14,7 +14,7 @@ int[] sayilar1 = new int[]
 
 int[] sayilar2 = new int[]
 {
-    100,200,300
+    100,200,300,400
 };
 
 sayilar1 = sayilar2;
